@@ -1,0 +1,8 @@
+.container-body{
+  display: block;
+  margin: 0 auto;
+  padding: 30px;
+  width: 200px;
+  border-radius: 15px;
+  background-color: rgb(37, 37, 37);
+}
